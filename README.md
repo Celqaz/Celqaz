@@ -37,7 +37,7 @@
   </a>
 </p>
 
-I'm an indie full-stack developer and risk analyst from China.
+I'm a full-stack developer and risk analyst.
 You can see some of my work here on GitHub, or on my personnal website: https://www.byteli.com/ 
 
 ---
