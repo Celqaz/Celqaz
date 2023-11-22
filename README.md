@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=200&center=true&vCenter=true&width=435&lines=Financial Risk Management; Data+Science+Student; " alt="Typing SVG"></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=200&center=true&vCenter=true&width=435&lines=Financial+Analyst;Risk+Management; Data+Science+Student; " alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 I'm a full-stack developer and risk analyst.
-You can see some of my work here on GitHub, or on my personnal website: https://www.byteli.com/ 
+You can find some of my work here on GitHub, or on my [blog](https://www.byteli.com/) 
 
 ---
 
