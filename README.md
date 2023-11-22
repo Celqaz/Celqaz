@@ -1,10 +1,10 @@
 <h3 align="center">
-  Welcome to Jason Li's profile!
+  Welcome to Bin Li's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=200&center=true&vCenter=true&width=435&lines=Full-stack+Developer; Data+Engineer;Risk+Analyst;Bass+Player+🧤;Always+learning+new+things" alt="Typing SVG"></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=200&center=true&vCenter=true&width=435&lines=Financial Risk Management; Data+Science+Student; " alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -15,11 +15,6 @@
   <a href="https://www.byteli.com/">
   <img width="32px" alt="Personnal Website" title="Personnal Website" src="https://img.icons8.com/fluent/96/000000/domain.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/petox717/">
-  <img width="32px" alt="Free Stuff" title="Pixel Arts" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Social badges section -->
