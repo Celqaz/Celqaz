@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jasonlitech/">
-  <img width="32px" alt="Linkedin" title="LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/jasonlib/">
+  <img width="32px" alt="Linkedin" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.byteli.com/">
