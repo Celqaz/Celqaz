@@ -53,7 +53,7 @@ A sample of my recent articles:
 ## Open-source Contribution
 
 - [chaski-app](https://github.com/a-chacon/chaski-app/pull/11): Fix invalid download link in README.md #11
-- [blog_template]([https://github.com/danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template)): Update post.ts to properly return the latest post #33
+- [blog_template](https://github.com/danielcgilibert/blog-template/pull/33): Update post.ts to properly return the latest post #33
 - [fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2948): Chinese translation for the newly added part6-d and modified part6-e #2948
 - [hugo_theme_zen](https://github.com/frjo/hugo-theme-zen/pull/80): Add math typesetting support with KaTex #80
 
