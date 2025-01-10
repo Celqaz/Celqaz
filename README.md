@@ -1,6 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Bin Li and I'm a FRM & Data Scientist. I'm from China, living in Netherlands. You can find me on [![LinkedIn][3.2]][3].
+Hi, I'm Bin Li — a FRM & Data Scientist from China, currently based in the Netherlands.
+
+I'm passionate about exploring the intersection of data science and finance, with a particular focus on financial risk management. One of my favorite quotes is:
+
+> "Anyone who has begun to think places some portion of the world in jeopardy." – John Dewey
+
+When I’m not diving into lo-fi playlists while coding, I enjoy playing the bass guitar, challenging myself in chess, or going for a run.
+
+You can find me on [![LinkedIn][3.2]][3].
 
 ## 🪄 Languages
 
@@ -8,59 +16,64 @@ My name is Bin Li and I'm a FRM & Data Scientist. I'm from China, living in Neth
 
 ## 🛠️ Technologies
 
-**Data Science**
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts)](https://skillicons.dev)
+**Machine Learning & AI**
 
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv)](https://skillicons.dev)
 
-## &#x270d; Blog & Writing
+**Database**
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=azure,git,vim)](https://skillicons.dev)
+
+**Full-stack Dev**
+
+[![My Skills](https://skillicons.dev/icons?i=django,react,express,nodejs,tailwind)](https://skillicons.dev)
+
+**Neat Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=bash,selenium,regex,postman)](https://skillicons.dev)
+
+## ✏️ Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [byteli.com](https://byteli.com/) .
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
+- [Options Strategies: Use Protective Put to Hedge Market Downside Risk](https://www.byteli.com/post/finance/how-to-use-options-to-hedge-market-downside-risk/)
+- [Exploring CDF vs PPF in SciPy: Understanding Probability Functions](https://www.byteli.com/post/datascience/cdf-and-ppf-in-in-scipy/)
+- [Data Visualization: `hue` in Seaborn](https://www.byteli.com/post/datascience/hue-in-seaborn/)
+- [How to Fix the f-string Error: Unmatched '(' in yfinance](https://www.byteli.com/post/datascience/fix_yfinance_error/)
+
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+## Open-source Contribution
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+- [chaski-app](https://github.com/a-chacon/chaski-app/pull/11): Fix invalid download link in README.md #11
+- [blog_template]([https://github.com/danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template)): Update post.ts to properly return the latest post #33
+- [fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2948): Chinese translation for the newly added part6-d and modified part6-e #2948
+- [hugo_theme_zen](https://github.com/frjo/hugo-theme-zen/pull/80): Add math typesetting support with KaTex #80
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## ⭐️ GitHub Stats
 
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<p align="center">
+ <img alt="Celqaz's Top Langs" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celqaz&langs_count=5&layout=compact&theme=bear&hide_border=true&hide=html,jupyter%20notebook" height="192px"/> 
+</p>   
 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
+
 [3]: https://www.linkedin.com/in/jasonlib/
 
 
