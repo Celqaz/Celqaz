@@ -26,7 +26,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=azure,git,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,git,githubactions,vim)](https://skillicons.dev)
 
 **Full-stack Dev**
 
