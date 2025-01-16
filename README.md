@@ -10,9 +10,20 @@ When I’m not diving into lo-fi playlists while coding, I enjoy playing the bas
 
 You can find me on [![LinkedIn][3.2]][3].
 
+## ⭐️ GitHub Stats
+
+<div>
+
+<img style="height: auto; width: 55%;" height=200 src="https://github-readme-stats-theyobots.vercel.app/api?username=Celqaz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+
+<img style="height: auto; width: 40%;" height=200 alt="Celqaz's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celqaz&langs_count=5&layout=compact&theme=bear&hide_border=true&hide=html,jupyter%20notebook"/> 
+
+</div>
+
 ## 🪄 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,js,ts)](https://skillicons.dev)
+
 
 ## 🛠️ Technologies
 
@@ -57,11 +68,7 @@ A sample of my recent articles:
 - [fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2948): Chinese translation for the newly added part6-d and modified part6-e #2948
 - [hugo_theme_zen](https://github.com/frjo/hugo-theme-zen/pull/80): Add math typesetting support with KaTex #80
 
-## ⭐️ GitHub Stats
 
-<p align="center">
- <img alt="Celqaz's Top Langs" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celqaz&langs_count=5&layout=compact&theme=bear&hide_border=true&hide=html,jupyter%20notebook" height="192px"/> 
-</p>   
 
 <!-- links to social media icons -->
 
