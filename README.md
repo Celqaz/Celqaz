@@ -54,6 +54,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built a Home Lab with Raspberry Pi](https://www.byteli.com/post/life/why_i_need_a_home_lab/)
 - [Options Strategies: Use Protective Put to Hedge Market Downside Risk](https://www.byteli.com/post/finance/how-to-use-options-to-hedge-market-downside-risk/)
 - [Exploring CDF vs PPF in SciPy: Understanding Probability Functions](https://www.byteli.com/post/datascience/cdf-and-ppf-in-in-scipy/)
 - [Data Visualization: `hue` in Seaborn](https://www.byteli.com/post/datascience/hue-in-seaborn/)
